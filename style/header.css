@@ -1,7 +1,7 @@
 .header {
   background-image: url("../img/header-bg.jpg");
   background-repeat: no-repeat;
-  background-position: -178px -7px;
+  background-position: center center;
   background-size: cover;
 }
 
